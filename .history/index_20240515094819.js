@@ -1,0 +1,3 @@
+def ran (vitorias,derrotas){
+
+}

@@ -1,0 +1,3 @@
+def ranke (vitorias,derrotas){
+
+}

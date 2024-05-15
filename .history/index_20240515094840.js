@@ -1,0 +1,3 @@
+function ranke (vitorias,derrotas){
+  
+}

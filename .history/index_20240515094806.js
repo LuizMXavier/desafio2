@@ -1,0 +1,3 @@
+def (vitorias,derrotas){
+  
+}

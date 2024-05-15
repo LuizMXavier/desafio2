@@ -1,0 +1,14 @@
+function ranke (vitorias,derrotas){
+  let saldoVitorias;
+  let nivel;
+  saldoVitorias = vitorias - derrotas
+  
+  return saldoVitorias
+}
+
+function nivelJog (vitorias){
+  let nivel
+  
+}
+
+console.log("O Herói de saldo de",ranke(7,5) + " está no nível de ")
